@@ -1,5 +1,5 @@
 ### Bem VIndo!! meu nome é:
-# Rafael-Calado
+# Rafael Calado
 
 - Estou estudando na [Alura](https://www.alura.com.br);
 - Estou me desenvolvendo na linguagem JavaScript;
